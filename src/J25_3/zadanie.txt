@@ -1,0 +1,16 @@
+Zaprojektuj program dzienniczek, który będzie umożliwiał:
+❑ Dodawanie uczniów, wstawianie ocen uczniom, prezentowanie uczniów
+wraz z ocenami i średnią, usuwanie uczniów, modyfikacja uczniów (imie,nazwisko)
+
+❑ Utwórz klasę uczeń, która:
+❑ Będzie zawierała pola prywatne: imie, nazwisko i oceny
+
+❑ Będzie zawierała konstruktor, który ustawi odpowiednie wartości dla pól imię, nazwisko
+
+❑ Będzie zawierała metodę dodajOcene(ocena)
+❑ Będzie zawierała metodę wyswietlOceny()
+❑ Będzie zawierała metodę zwracającą sredniaOcen()
+❑ Będzie zawierała gettery i setery (imię, nazwisko)
+❑ Będzie zawierała metodę toString()
+❑ Utwórz menu: D-dodaj ucznia, P-pokaz uczniów, O – dodaj ocenę, U – usuń ucznia, M –
+modyfikuj, K - koniec

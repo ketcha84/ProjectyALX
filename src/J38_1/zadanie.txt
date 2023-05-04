@@ -1,0 +1,12 @@
+Zaprojektuj aplikację dodającą studentów w zakresie:
+imie, nazwisko, oceny (ocen student może otrzymywać wiele)
+
+Dane należy przechowywać w pliku txt.
+
+Menu:
+dodaj studenta (pytania: imie, nazwisko),
+wyświetl studentów,
+usuń studenta (pytania: nazwisko),
+dodaj ocenę studentowi (pytania: nazwisko), ocena,
+wyświetl studenta wraz z ocenami (pytania: nazwisko),
+koniec

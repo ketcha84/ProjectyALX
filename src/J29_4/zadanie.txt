@@ -1,0 +1,16 @@
+Zaprojektuj system dla NFZ.
+❑ System ma za zadanie zbierać dla każdej przychodni informacje o swoich
+pacjentach oraz ich chorobach.
+
+❑ Przychodnia zawiera informacje takie jak:
+❑ nazwa, miasto, lista pacjentów
+
+❑ Pacjent zawiera takie informacje jak:
+❑ imię, nazwisko, choroby
+
+❑ Zaprojektuj menu:
+❑ 1 – Przychodnia, 2 – Pacjent, 3 – Koniec
+❑ W opcji – 1:
+1 – dodaj przychodnię, 2 - dodaj pacjenta, 3 - lista przychodni, 4 - lista pacjentów w przychodni
+❑ W opcji – 2:
+1 – doda chorobę, 2 - lista chorób pacjenta

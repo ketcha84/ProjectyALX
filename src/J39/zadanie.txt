@@ -1,0 +1,4 @@
+Utwórz tablicę liczb {1,2,3,4,5}
+Poproś od użytkownika wpisanie dowolnej liczby, podając index.
+Obsłuż błąd jeżeli podany index nie zostanie znaleziony w tablicy
+Obsłuż błąd jeśli nie zostanie wypisana liczba tylko dowolny znak.

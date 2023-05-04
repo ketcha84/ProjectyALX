@@ -1,0 +1,8 @@
+todo: Zaprojektuj aplikacje kalkulator, w której użytkownik poda dwie
+      dowolne liczby i znak działania ( + - * / )
+
+todo:  Zadbaj o obsługę błędów, które mogą wyniknąć w trakcie działania
+       aplikacji.
+
+todo: Jeżeli użytkownik poda niepoprawne dane powinien zostać ponownie
+      poproszony o ich wprowadzenie.

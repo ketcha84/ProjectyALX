@@ -1,0 +1,14 @@
+Utwórz zestaw klas zgodnie z poniższym drzewem hierarchii.
+
+ Uwzględnij elementy dziedziczenia.
+
+ Przypisz poniższe pola odpowiednim klasom:
+ Pojazd: (int)waga, (int)mocSilnika, (String)kolor, (int)liczbaPasazerow, (double)cena
+
+ PojazdKolowy: (int)liczbaKol
+ Lodz: (int)zanurzenie
+ Samolot: (int)pulap,
+ Samochod: (String)typFelg,
+ Motocykl: (String)bagaznikNaKask.
+ Utwórz klasę Run w której utworzysz obiekt
+Samochod
